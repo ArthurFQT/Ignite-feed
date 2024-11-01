@@ -1,3 +1,3 @@
 # React + TypeScript + Vite
 
-link:  https://01-fundamentos-reactjs-ts-omega.vercel.app/
+link:  https://rocketseat-fjdcfozhe-arthur-filipes-projects.vercel.app/
